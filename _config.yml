@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "http://peter828.github.io/3rdpartypigeon"
-baseurl: "/photorama"
+url: "http://peter828.github.io"
+baseurl: "/3rdpartypigeon"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://peter828.github.io/3rdpartypigeon/photorama/gallery/"  
-  - JOURNAL: "http://peter828.github.io/3rdpartypigeon/photorama/journal/"
-  - ABOUT: "http://peter828.github.io/3rdpartypigeon/photorama/about/"
+  - GALLERY: "http://peter828.github.io/3rdpartypigeon/gallery/"  
+  - JOURNAL: "http://peter828.github.io/3rdpartypigeon/photorjournal/"
+  - ABOUT: "http://peter828.github.io/3rdpartypigeon/about/"
 
 # All translation keys
 translations:
